@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/lifesize.unity
-    guid: 04f780b24424c49f79f60ed4442d3e71
+    guid: efda1584d07ecc34db1848a253ed1949
+  - enabled: 0
+    path: Assets/Scenes/TableTopSize.unity
+    guid: ea2b55cbe1a608d4491aa37a3173311d
   m_configObjects: {}
